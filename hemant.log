@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2017.10.4)  5 NOV 2018 04:59
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2017.10.4)  6 NOV 2018 01:32
  restricted system commands enabled.
 **hemant.tex
 (./hemant.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.123 seconds
+luaotfload | main : initialization completed in 0.117 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (./hemant-style.cls
 Document Class: hemant-style 2018/01/01
@@ -91,6 +91,64 @@ Package: layout 2014/10/28 v1.2c Show layout parameters
 \PositionY=\count116
 \ArrowLength=\count117
 )
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count118
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count119
+\leftroot@=\count120
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count121
+\DOTSCASE@=\count122
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
+\dotsspace@=\muskip10
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks15
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
 (/home/hemant/texmf/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -108,7 +166,7 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count118
+\Gread@gobject=\count130
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -128,7 +186,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
@@ -140,26 +198,26 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count119
-\Gm@cntv=\count120
-\c@Gm@tempcnt=\count121
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
-\Gm@dimlist=\toks15
+\Gm@cnth=\count131
+\Gm@cntv=\count132
+\c@Gm@tempcnt=\count133
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks20
 )
 (/home/hemant/texmf/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip43
-\enit@outerparindent=\dimen111
-\enit@toks=\toks16
-\enit@inbox=\box26
-\enitdp@description=\count122
+\labelindent=\skip46
+\enit@outerparindent=\dimen120
+\enit@toks=\toks21
+\enit@inbox=\box28
+\enitdp@description=\count134
 )) (./hemant.aux)
 \openout1 = hemant.aux
 
@@ -180,17 +238,17 @@ LaTeX Font Info:    ... okay on input line 2.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
-\scratchdimen=\dimen112
-\scratchbox=\box27
-\nofMPsegments=\count124
-\nofMParguments=\count125
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count126
-\MPscratchDim=\dimen113
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count135
+\scratchdimen=\dimen121
+\scratchbox=\box29
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen122
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks23
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -200,14 +258,14 @@ LaTeX Font Info:    ... okay on input line 2.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(7.11317pt, 547.71558pt, 42.67912pt)
+* h-part:(L,W,R)=(15.6491pt, 533.4892pt, 48.36958pt)
 * v-part:(T,H,B)=(20.77039pt, 803.50607pt, 20.77039pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=547.71558pt
+* \textwidth=533.4892pt
 * \textheight=803.50607pt
-* \oddsidemargin=-65.15681pt
-* \evensidemargin=-65.15681pt
+* \oddsidemargin=-56.6209pt
+* \evensidemargin=-56.6209pt
 * \topmargin=-88.4996pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -250,19 +308,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--48
 
  []
 
-(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman9-regular.l
-uc)(load luc: /home/hemant/.texlive2016/texmf-var/luatex-cache/generic/fonts/otl
-/lmroman9-regular.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/
-otl/lmsans9-regular.luc)(load luc: /home/hemant/.texlive2016/texmf-var/luatex-ca
-che/generic/fonts/otl/lmsans9-regular.luc)
+
 Overfull \hbox (2.22pt too wide) in paragraph at lines 18--116
 [][] [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 116.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 116.
 
 Overfull \hbox (15.0pt too wide) in paragraph at lines 3--119
 []$[]$ 
@@ -276,25 +326,24 @@ Missing character: There is no  (U+0019) in font nullfont!
 (./hemant.aux))
 
 Here is how much of LuaTeX's memory you used:
- 2429 strings out of 494577
+ 3055 strings out of 494577
  100000,128383 words of node,token memory allocated
- 702 words of node memory still in use:
-   2 hlist, 1 vlist, 1 rule, 40 glue, 30 attribute, 40 glue_spec, 30 attribute_l
-ist, 1 write nodes
-   avail lists: 2:749,3:207,4:137,5:310,6:3534,7:958,8:2,9:179,10:9,11:386
- 6453 multiletter control sequences out of 65536+600000
- 32 fonts using 2266631 bytes
- 30i,7n,37p,261b,420s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texm
-f/fonts/opentype/public/lm/lmsans9-regular.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmroman12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmrom
-an12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-regular.otf></
-usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texmf
-/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on hemant.pdf (1 page, 38940 bytes).
+ 776 words of node memory still in use:
+   5 hlist, 2 vlist, 2 rule, 41 glue, 1 kern, 32 attribute, 42 glue_spec, 32 att
+ribute_list, 1 write nodes
+   avail lists: 2:735,3:212,4:137,5:306,6:3580,7:970,8:2,9:181,10:9,11:392
+ 7045 multiletter control sequences out of 65536+600000
+ 32 fonts using 2127199 bytes
+ 34i,7n,37p,261b,375s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/tex
+mf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/
+public/lm/lmsans10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroma
+n10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf
+>
+Output written on hemant.pdf (1 page, 31446 bytes).
 
-PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
