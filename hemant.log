@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2017.10.4)  6 NOV 2018 19:26
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2017.10.4)  6 NOV 2018 20:06
  restricted system commands enabled.
 **hemant.tex
 (./hemant.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.124 seconds
+luaotfload | main : initialization completed in 0.286 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (./hemant-style.cls
 Document Class: hemant-style 2018/01/01
@@ -294,10 +294,8 @@ ve2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc)(compiling
  luc: /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman12-bold.luc)(load luc
 : /home/hemant/.texlive2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-b
 old.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman7-r
-egular.luc)(compiling luc: /home/hemant/.texlive2016/texmf-var/luatex-cache/gene
-ric/fonts/otl/lmroman7-regular.luc)(save: /home/hemant/.texlive2016/texmf-var/lu
-atex-cache/generic/fonts/otl/lmroman7-regular.lua)(save: /home/hemant/.texlive20
-16/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc)
+egular.luc)(load luc: /home/hemant/.texlive2016/texmf-var/luatex-cache/generic/f
+onts/otl/lmroman7-regular.luc)
 Underfull \hbox (badness 10000) in paragraph at lines 19--56
 
  []
@@ -343,7 +341,7 @@ Here is how much of LuaTeX's memory you used:
  776 words of node memory still in use:
    5 hlist, 2 vlist, 2 rule, 41 glue, 1 kern, 32 attribute, 42 glue_spec, 32 att
 ribute_list, 1 write nodes
-   avail lists: 2:777,3:228,4:141,5:313,6:3670,7:1006,8:2,9:193,10:9,11:402
+   avail lists: 2:777,3:228,4:141,5:313,6:3678,7:1006,8:2,9:193,10:9,11:403
  7046 multiletter control sequences out of 65536+600000
  33 fonts using 2258879 bytes
  34i,10n,37p,261b,375s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -352,7 +350,7 @@ mf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentyp
 e/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans
 10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf>
 </usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on hemant.pdf (1 page, 33133 bytes).
+Output written on hemant.pdf (1 page, 33144 bytes).
 
 PDF statistics: 50 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
