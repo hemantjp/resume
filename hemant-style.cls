@@ -26,7 +26,7 @@
     {\color{BrickRed}{\textsf{#1}}}
 }
 \newcommand{\JobLocation}[1]{
-    {\color{OliveGreen}{\textmd{#1}}}
+    {\color{PineGreen}{\textmd{#1}}}
 }
 \newcommand{\JobDuration}[1]{
     {#1}
