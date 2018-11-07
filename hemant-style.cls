@@ -4,7 +4,7 @@
 \usepackage{layout}
 \usepackage{amsmath}
 \usepackage[dvipsnames]{xcolor}
-\usepackage[left=0.55cm, right=1.7cm,vmargin=0.73cm]{geometry}
+\usepackage[left=0.75cm, right=1.5cm,vmargin=0.73cm]{geometry}
 %https://www.overleaf.com/learn/latex/Page_size_and_margins
 \usepackage{enumitem}
 \newcommand{\ts}{\textsuperscript}
@@ -14,18 +14,19 @@
 }
 \newcommand{\SectionHeader}[1]{
     {\color{Sepia}{\Large\textbf{#1}}}
+    \vspace{.25em}
 }
 \newcommand{\JobCompany}[1]{
-    {\color{Orchid}{\large{#1}}}
+    {\color{Blue}{\large\textbf{#1}}}
 }
 \newcommand{\JobDesignation}[1]{
-    {\color{NavyBlue}{\textsf{#1}}}
+    {\color{Violet}{\textsf{#1}}}
 }
 \newcommand{\ProjectName}[1]{
-    {\color{Emerald}{\textsf{#1}}}
+    {\color{BrickRed}{\textsf{#1}}}
 }
 \newcommand{\JobLocation}[1]{
-    {\color{RoyalPurple}{\textmd{#1}}}
+    {\color{OliveGreen}{\textmd{#1}}}
 }
 \newcommand{\JobDuration}[1]{
     {#1}
