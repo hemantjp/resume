@@ -4,7 +4,7 @@
 \usepackage{layout}
 \usepackage{amsmath}
 \usepackage[dvipsnames]{xcolor}
-\usepackage[left=0.75cm, right=1.5cm,vmargin=0.73cm]{geometry}
+\usepackage[left=0.5cm, right=1.7cm,vmargin=0.73cm]{geometry}
 %https://www.overleaf.com/learn/latex/Page_size_and_margins
 \usepackage{enumitem}
 \newcommand{\ts}{\textsuperscript}
