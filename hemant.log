@@ -1,51 +1,18 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2017.10.4)  12 NOV 2018 03:22
- restricted system commands enabled.
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.10)  18 DEC 2018 21:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **hemant.tex
 (./hemant.tex
-LaTeX2e <2017/01/01> patch level 3
-Lua module: luaotfload-main 2016/06/16 2.70003 OpenType layout system.
-Lua module: lualibs 2016-04-06 2.4 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2016-04-06 2.4 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /home/hemant/.texlive2016/texmf-var/luatex-cache/ge
-neric)(using read cache: /var/lib/texmf/luatex-cache/generic /home/hemant/.texli
-ve2016/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /home/hemant/.texlive2016/texmf-var/
-luatex-cache/generic/names.
-luaotfload | init : Loading fontloader “fontloader-2016-06-16.lua” from kpse
--resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
--2016-06-16.lua”.
-Lua-only attribute luaotfload@state = 1
-Lua-only attribute luaotfload@noligature = 2
-Lua-only attribute luaotfload@syllabe = 3
-luaotfload | init : Context OpenType loader version “3.023”
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /home/hemant/.texlive2016/texmf-var/
-luatex-cache/generic/names.
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
-.
-luaotfload | main : initialization completed in 0.121 seconds
-Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 3 language(s) loaded.
 (./hemant-style.cls
 Document Class: hemant-style 2018/01/01
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/hemant/.texlive2016/texm
-f-var/luatex-cache/generic/names/luaotfload-names.luc(compiling luc: /var/lib/te
-xmf/luatex-cache/generic/fonts/otl/lmroman10-regular.luc)(load luc: /home/hemant
-/.texlive2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+)
 \c@part=\count79
 \c@section=\count80
 \c@subsection=\count81
@@ -57,7 +24,8 @@ xmf/luatex-cache/generic/fonts/otl/lmroman10-regular.luc)(load luc: /home/hemant
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/layout.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/layout.sty
 Package: layout 2014/10/28 v1.2c Show layout parameters
 \oneinch=\count87
 \cnt@paperwidth=\count88
@@ -149,24 +117,16 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(/home/hemant/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2017/01/12 v0.01h Graphics/Color for luaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count130
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -189,7 +149,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -198,9 +158,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count131
-\Gm@cntv=\count132
-\c@Gm@tempcnt=\count133
+\Gm@cnth=\count130
+\Gm@cntv=\count131
+\c@Gm@tempcnt=\count132
 \Gm@bindingoffset=\dimen112
 \Gm@wd@mp=\dimen113
 \Gm@odd@mp=\dimen114
@@ -211,15 +171,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen119
 \Gm@dimlist=\toks20
 )
-(/home/hemant/texmf/tex/latex/enumitem/enumitem.sty
+(/home/guts/texmf/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip46
 \enit@outerparindent=\dimen120
 \enit@toks=\toks21
 \enit@inbox=\box28
-\enitdp@description=\count134
+\enitdp@description=\count133
 )) (./hemant.aux)
-\openout1 = hemant.aux
+\openout1 = `hemant.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -229,8 +189,6 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
@@ -238,16 +196,16 @@ LaTeX Font Info:    ... okay on input line 2.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count135
+\scratchcounter=\count134
 \scratchdimen=\dimen121
 \scratchbox=\box29
-\nofMPsegments=\count136
-\nofMParguments=\count137
+\nofMPsegments=\count135
+\nofMParguments=\count136
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count138
+\MPscratchCnt=\count137
 \MPscratchDim=\dimen122
-\MPnumerator=\count139
-\makeMPintoPDFobject=\count140
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
 \everyMPtoPDFconversion=\toks23
 )
 *geometry* driver: auto-detecting
@@ -284,66 +242,74 @@ LaTeX Font Info:    ... okay on input line 2.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman17-regular.
-luc)(load luc: /home/hemant/.texlive2016/texmf-var/luatex-cache/generic/fonts/ot
-l/lmroman17-regular.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic/font
-s/otl/lmroman12-regular.luc)(load luc: /home/hemant/.texlive2016/texmf-var/luate
-x-cache/generic/fonts/otl/lmroman12-regular.luc)(compiling luc: /var/lib/texmf/l
-uatex-cache/generic/fonts/otl/lmroman12-bold.luc)(load luc: /home/hemant/.texliv
-e2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc)(compiling luc
-: /var/lib/texmf/luatex-cache/generic/fonts/otl/lmsans10-regular.luc)(load luc: 
-/home/hemant/.texlive2016/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-regu
-lar.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman7-r
-egular.luc)(load luc: /home/hemant/.texlive2016/texmf-var/luatex-cache/generic/f
-onts/otl/lmroman7-regular.luc)
-Underfull \hbox (badness 10000) in paragraph at lines 20--59
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--59
+Underfull \hbox (badness 10000) in paragraph at lines 20--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--59
+Underfull \hbox (badness 10000) in paragraph at lines 20--60
 
  []
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 69.
 
-Overfull \hbox (2.22pt too wide) in paragraph at lines 19--128
+LaTeX Font Info:    No file OMScmss.fd. on input line 69.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 69.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 19--129
 [][] [] 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 3--131
+Overfull \hbox (15.0pt too wide) in paragraph at lines 3--132
 []$[]$ 
  []
 
 [1
 
-{/home/hemant/.texlive2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./hemant.aux))
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./hemant.aux)
 
-Here is how much of LuaTeX's memory you used:
- 3059 strings out of 494577
- 100000,128383 words of node,token memory allocated
- 842 words of node memory still in use:
-   5 hlist, 2 vlist, 2 rule, 47 glue, 1 kern, 38 attribute, 42 glue_spec, 38 att
-ribute_list, 1 write nodes
-   avail lists: 2:773,3:223,4:137,5:314,6:3619,7:1000,8:2,9:185,10:6,11:393
- 7047 multiletter control sequences out of 65536+600000
- 34 fonts using 2390559 bytes
- 34i,10n,37p,260b,379s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texm
-f/fonts/opentype/public/lm/lmsans10-regular.otf></usr/share/texmf/fonts/opentype
-/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman
-10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf>
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Output written on hemant.pdf (1 page, 29417 bytes).
-
-PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
+ ) 
+Here is how much of TeX's memory you used:
+ 2729 strings out of 494931
+ 35606 string characters out of 6180851
+ 113329 words of memory out of 5000000
+ 6046 multiletter control sequences out of 15000+600000
+ 5908 words of font info for 22 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 34i,10n,37p,254b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on hemant.pdf (1 page, 80785 bytes).
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
